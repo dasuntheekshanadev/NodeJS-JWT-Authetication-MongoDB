@@ -1,3 +1,1 @@
-#mongoDB ps
-skul77candy 
-SN1AyO4GoL1yxX5U
+Authentication API with NodeJS, ExpressJS, JWT , MongoDB

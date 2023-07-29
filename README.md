@@ -1,2 +1,3 @@
-# NodeJS-JWT-Authetication-MongoDB
-Authentication API with NodeJS ,ExpressJS,JWT,MongoDB 
+#mongoDB ps
+skul77candy 
+SN1AyO4GoL1yxX5U
